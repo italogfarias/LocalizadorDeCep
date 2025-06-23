@@ -1,0 +1,13 @@
+C:\Users\italo.gfarias\source\repos\LocalizadorDeCep\LocalizadorDeCep\bin\Debug\LocalizadorDeCep.exe.config
+C:\Users\italo.gfarias\source\repos\LocalizadorDeCep\LocalizadorDeCep\bin\Debug\LocalizadorDeCep.exe
+C:\Users\italo.gfarias\source\repos\LocalizadorDeCep\LocalizadorDeCep\bin\Debug\LocalizadorDeCep.pdb
+C:\Users\italo.gfarias\source\repos\LocalizadorDeCep\LocalizadorDeCep\bin\Debug\Newtonsoft.Json.dll
+C:\Users\italo.gfarias\source\repos\LocalizadorDeCep\LocalizadorDeCep\bin\Debug\Newtonsoft.Json.xml
+C:\Users\italo.gfarias\source\repos\LocalizadorDeCep\LocalizadorDeCep\obj\Debug\LocalizadorDeCep.csproj.AssemblyReference.cache
+C:\Users\italo.gfarias\source\repos\LocalizadorDeCep\LocalizadorDeCep\obj\Debug\LocalizadorDeCep.Form1.resources
+C:\Users\italo.gfarias\source\repos\LocalizadorDeCep\LocalizadorDeCep\obj\Debug\LocalizadorDeCep.Properties.Resources.resources
+C:\Users\italo.gfarias\source\repos\LocalizadorDeCep\LocalizadorDeCep\obj\Debug\LocalizadorDeCep.csproj.GenerateResource.cache
+C:\Users\italo.gfarias\source\repos\LocalizadorDeCep\LocalizadorDeCep\obj\Debug\LocalizadorDeCep.csproj.CoreCompileInputs.cache
+C:\Users\italo.gfarias\source\repos\LocalizadorDeCep\LocalizadorDeCep\obj\Debug\Localiza.18C01C5A.Up2Date
+C:\Users\italo.gfarias\source\repos\LocalizadorDeCep\LocalizadorDeCep\obj\Debug\LocalizadorDeCep.exe
+C:\Users\italo.gfarias\source\repos\LocalizadorDeCep\LocalizadorDeCep\obj\Debug\LocalizadorDeCep.pdb

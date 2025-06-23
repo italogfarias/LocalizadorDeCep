@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\italo.gfarias\\source\\repos\\LocalizadorDeCep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDF8F63-0276-405B-8C56-ED45FD4ABF88}|LocalizadorDeCep\\LocalizadorDeCep.csproj|c:\\users\\italo.gfarias\\source\\repos\\localizadordecep\\localizadordecep\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDF8F63-0276-405B-8C56-ED45FD4ABF88}|LocalizadorDeCep\\LocalizadorDeCep.csproj|solutionrelative:localizadordecep\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDF8F63-0276-405B-8C56-ED45FD4ABF88}|LocalizadorDeCep\\LocalizadorDeCep.csproj|c:\\users\\italo.gfarias\\source\\repos\\localizadordecep\\localizadordecep\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFDF8F63-0276-405B-8C56-ED45FD4ABF88}|LocalizadorDeCep\\LocalizadorDeCep.csproj|solutionrelative:localizadordecep\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDF8F63-0276-405B-8C56-ED45FD4ABF88}|LocalizadorDeCep\\LocalizadorDeCep.csproj|c:\\users\\italo.gfarias\\source\\repos\\localizadordecep\\localizadordecep\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDF8F63-0276-405B-8C56-ED45FD4ABF88}|LocalizadorDeCep\\LocalizadorDeCep.csproj|solutionrelative:localizadordecep\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDF8F63-0276-405B-8C56-ED45FD4ABF88}|LocalizadorDeCep\\LocalizadorDeCep.csproj|c:\\users\\italo.gfarias\\source\\repos\\localizadordecep\\localizadordecep\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{BFDF8F63-0276-405B-8C56-ED45FD4ABF88}|LocalizadorDeCep\\LocalizadorDeCep.csproj|solutionrelative:localizadordecep\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\italo.gfarias\\source\\repos\\LocalizadorDeCep\\LocalizadorDeCep\\Endereco.cs",
+              "RelativeDocumentMoniker": "LocalizadorDeCep\\Endereco.cs",
+              "ToolTip": "C:\\Users\\italo.gfarias\\source\\repos\\LocalizadorDeCep\\LocalizadorDeCep\\Endereco.cs",
+              "RelativeToolTip": "LocalizadorDeCep\\Endereco.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAtwDAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:47:30.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\italo.gfarias\\source\\repos\\LocalizadorDeCep\\LocalizadorDeCep\\Form1.cs",
+              "RelativeDocumentMoniker": "LocalizadorDeCep\\Form1.cs",
+              "ToolTip": "C:\\Users\\italo.gfarias\\source\\repos\\LocalizadorDeCep\\LocalizadorDeCep\\Form1.cs",
+              "RelativeToolTip": "LocalizadorDeCep\\Form1.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAEMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:22:47.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\italo.gfarias\\source\\repos\\LocalizadorDeCep\\LocalizadorDeCep\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "LocalizadorDeCep\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\italo.gfarias\\source\\repos\\LocalizadorDeCep\\LocalizadorDeCep\\Properties\\Resources.resx",
+              "RelativeToolTip": "LocalizadorDeCep\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-23T17:07:48.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\italo.gfarias\\source\\repos\\LocalizadorDeCep\\LocalizadorDeCep\\Form1.cs",
+              "RelativeDocumentMoniker": "LocalizadorDeCep\\Form1.cs",
+              "ToolTip": "C:\\Users\\italo.gfarias\\source\\repos\\LocalizadorDeCep\\LocalizadorDeCep\\Form1.cs [Design]",
+              "RelativeToolTip": "LocalizadorDeCep\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:01:57.991Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
